@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Acetest1
 http://192.168.0.213:6878/ace/getstream?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+
+#EXTINF:-1, Ssport
+https://hls8d.gcdn.co/IXZdCUf8ofaEi1C3v0clzw,1634163980/hlslive/190.m3u8
