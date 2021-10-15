@@ -6,4 +6,4 @@ https://hls8d.gcdn.co/IXZdCUf8ofaEi1C3v0clzw,1634163980/hlslive/190.m3u8
 #EXTINF:-1, BeinSport 1 TR ACE
 http://192.168.0.213:6878/ace/getstream?id=b078583fd6b7b122b1809600fa114a392cb0e239
 #EXTINF:-1, BeinSport 1 TR myfootball
-https://mfstream.online/hls/ot11.m3u8
+https://mfstream.online/hls/ot11-1225.ts
