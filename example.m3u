@@ -9,3 +9,5 @@ http://192.168.0.213:6878/ace/getstream?id=b078583fd6b7b122b1809600fa114a392cb0e
 https://mfstream.online/hls/ot11.m3u8
 #EXTINF:-1, Beyaz TV
 https://stream-04.ix7.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzBPpK_9EyULyItOj9f5A3pI)/dm/3/x4kopfq/d/live-4.m3u8
+#EXTINF:-1, Acetest2
+http://192.168.0.213:6878/ace/stream-04.ix7.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzBPpK_9EyULyItOj9f5A3pI)/dm/3/x4kopfq/d/live-4.m3u8
